@@ -1,0 +1,19 @@
+﻿生成启动时间为 2015/1/25 19:34:56。
+     1>项目“C:\Users\Administrator\Desktop\CitectOPC 潘河 v1-24 - 副本\CitectOPC\CitectOPC.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\CitectOPC.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CitectOPC.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CitectOPC.cpp COPCDataCallback.cpp
+         COPCDataCallback.cpp
+         CitectOPC.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\CitectOPC 潘河 v1-24 - 副本\Debug\CitectOPC.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Administrator\Desktop\CitectOPC 潘河 v1-24 - 副本\Debug\CitectOPC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\CitectOPC 潘河 v1-24 - 副本\Debug\CitectOPC.lib" /MACHINE:X86 Debug\CitectOPC.obj
+         Debug\COPCDataCallback.obj
+         Debug\stdafx.obj
+         CitectOPC.vcxproj -> C:\Users\Administrator\Desktop\CitectOPC 潘河 v1-24 - 副本\Debug\CitectOPC.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\CitectOPC 潘河 v1-24 - 副本\CitectOPC\CitectOPC.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.28
